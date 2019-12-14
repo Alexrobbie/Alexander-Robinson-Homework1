@@ -1,0 +1,93 @@
+style
+
+
+.box-set {
+   position: relative;
+  height: 100px;
+  width: 1000px;
+  background: darkgray;
+  
+}
+.background
+{
+  position: absolute;
+  height: 100px;
+  width: 1555px;
+  background: darkgray;
+  top: 0%;
+  left: -4%;
+}
+.box{
+  position: absolute;
+   width: 66px;
+   height: 150px;
+   top: 9%
+   ;
+   
+ }
+.name {
+  left: -2%;
+  top: 2%;
+  width: 400px;
+  height: 40px;
+  
+  font-size: 200%;
+}
+img {
+    float: left;
+    
+  }
+  .contact {
+right: 0%;
+  }
+
+  
+  .portfolio {
+    right: 8%;
+  }
+  
+  .about {
+    right: 17%;
+  }
+
+  
+A 
+  {text-decoration: none;
+
+}
+input {
+  width: 30%;
+}
+.message {
+  height: 150px;;
+}
+body {
+  text-align: center;
+}
+html {
+  font-family: 'Girassol', cursive;
+  background-color: whitesmoke;
+}
+p {
+font-size: 24px;
+}
+.port1 {
+  position: absolute;
+  top: 40%;
+  right: 60%;
+}
+.port2 {
+  position: absolute;
+  top: 40%;
+  right: 40%;
+}
+.port3 {
+  position: absolute;
+  top: 70%;
+  right: 60%;
+}
+.port4 {
+  position: absolute;
+  top: 70%;
+  right: 40%;
+}
